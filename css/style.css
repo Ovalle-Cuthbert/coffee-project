@@ -1,5 +1,4 @@
 body {
-    /*background-image: url("img/coffee-beans.jpg");*/
     background-color: #654321;
 }
 
@@ -11,7 +10,6 @@ body {
 
 h1 {
     text-align: center;
-    /*color: #654321;*/
     color: bisque;
 }
 
@@ -34,9 +32,6 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /*margin: 20px;*/
-    /*background-color: bisque;*/
-    /*border-left: 40px  solid rgba(100,100,100,0.0);*/
     width: 50%
 }
 
@@ -53,7 +48,6 @@ button {
 }
 
 .coffee-select{
-    /*border: 2px solid #654321;*/
     width: 50%;
     border: 2px solid bisque;
     border-radius: 40px;
@@ -68,17 +62,14 @@ button {
 }
 
 .name-info{
-    /*color: #654321;*/
     color: white;
     margin: 3px;
 }
 
 .info{
-    /*color: #654321;*/
     color: bisque;
     display:flex;
     flex-wrap:nowrap;
-    /*flex-direction: row;*/
     align-self: center;
 }
 
@@ -134,7 +125,6 @@ p{
     .coffee-pic{
         display:flex;
         justify-content: center;
-        /*mix-blend-mode: multiply;*/
         width:20%;
         height:20%;
     }
